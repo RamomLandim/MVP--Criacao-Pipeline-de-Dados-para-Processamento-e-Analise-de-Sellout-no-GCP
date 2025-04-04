@@ -38,5 +38,6 @@ Dashboard: Os dados são analisados e visualizados em dashboards interativos.
 Grande parte do projeto foi desenvolvido no Google Cloud Plataform. 
 
 Caso deseja simular a execução dos códigos em relação ao Site e o Job, além de vizualiar o Power BI, recomenda-se clonar o Repositório.
-
- git clone https://github.com/RamomLandim/MVP--Criacao-Pipeline-de-Dados-para-Processamento-e-Analise-de-Sellout-no-GCP.git
+~~~
+git clone https://github.com/RamomLandim/MVP--Criacao-Pipeline-de-Dados-para-Processamento-e-Analise-de-Sellout-no-GCP.git
+~~~
